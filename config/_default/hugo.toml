@@ -1,13 +1,14 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://zirdl.github.io/'
+baseURL = 'https://zirdl.github.io/gallery.'
 # website title
 title = 'gallery'
 # don't touch this
 disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
 enableRobotsTXT = true
+relativeURLs = true
 # available options
 # * en (powered by Geist)
 # * de (powered by Geist)
