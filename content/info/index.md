@@ -4,7 +4,7 @@ layout: single
 url: /info
 menu:
   main:
-    weight: 4
+    weight: 3
     identifier: info
     title: info
 unifiedAlt: ''
