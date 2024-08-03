@@ -12,6 +12,6 @@ typographer = true
 # whether to use HTML tags directly in the document
 unsafe = true
 
-[sass]
-outputStyle = "compressed"
-enableSourceMap = true
+# [sass]
+# outputStyle = "compressed"
+# enableSourceMap = true
