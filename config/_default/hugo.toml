@@ -5,7 +5,7 @@ baseURL = 'https://giography.vercel.app/'
 # website title
 title = 'giography'
 # don't touch this
-disableKinds = [ "sections", "taxonomy", "term", "home"]
+disableKinds = [ "section", "taxonomy", "term", "home"]
 # robots.txt
 enableRobotsTXT = true
 # relativeURLs = true
