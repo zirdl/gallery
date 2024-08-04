@@ -6,7 +6,7 @@ menu:
   main:
     weight: 2
     identifier: film
-    title: Fake_Film
+    title: Fake Film
 unifiedAlt: '© Giovani Valdriz'
 _build:
   publishResources: false

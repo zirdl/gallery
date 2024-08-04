@@ -1,9 +1,9 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://zirdl.github.io/gallery'
+baseURL = 'https://giography.vercel.app/'
 # website title
-title = 'gallery'
+title = 'giography'
 # don't touch this
 disableKinds = [ "taxonomy", "term", "home"]
 # robots.txt
