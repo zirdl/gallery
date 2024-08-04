@@ -8,7 +8,7 @@ title = 'gallery'
 disableKinds = [ "taxonomy", "term", "home"]
 # robots.txt
 enableRobotsTXT = true
-relativeURLs = true
+# relativeURLs = true
 # available options
 # * en (powered by Geist)
 # * de (powered by Geist)
