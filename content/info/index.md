@@ -16,5 +16,5 @@ Hello there! I'm **Gio**, an amateur photographer and tech enthusiast based in S
 
 developed with Hugo using <u>[bridget theme](https://github.com/Sped0n/bridget)</u>
 
-&copy; {{< year >}} Gio. All rights reserved
+&copy; 2024 Gio. All rights reserved
 
