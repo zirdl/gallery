@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /gallery/fake_film
+url: /fake_film
 menu:
   main:
     weight: 2

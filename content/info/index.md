@@ -1,7 +1,7 @@
 ---
 type: _default
 layout: single
-url: /gallery/info
+url: /info
 menu:
   main:
     weight: 3
