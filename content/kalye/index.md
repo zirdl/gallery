@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
     identifier: kalye
-    title: Baguio
+    title: sa mga kalsada't kalye
 unifiedAlt: '© Giovani Valdriz'
 _build:
   publishResources: false
