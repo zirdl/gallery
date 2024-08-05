@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
     identifier: kalye
-    title: sa mga kalsada't kalye
+    title: itta lang
 unifiedAlt: '© Giovani Valdriz'
 _build:
   publishResources: false

@@ -4,7 +4,7 @@ layout: single
 url: /info/
 menu:
   main:
-    weight: 4
+    weight: 3
     identifier: info
     title: info
 unifiedAlt: ''
@@ -14,9 +14,11 @@ _build:
 
 # About
 
-Hello there! I'm **Gio**, an amateur photographer and tech enthusiast based in San Juan, La Union. My forte is on **documentary** and **street photography**, but I also do artistic portraits.
+Hello there! I'm **Gio**, an amateur photographer and tech enthusiast based in San Juan, La Union. My forte is mostly on **documentary** and **street photography**, but I also do artistic portraits.
 
-developed with Hugo using <u>[bridget theme](https://github.com/Sped0n/bridget)</u>
+## Links:
+* Blog: [https://zirdl.github.io/](https://zirdl.github.io/) 
+* Github: [https://github.com/zirdl/](https://github.com/zirdl/) 
 
 &copy; 2024 Gio. All rights reserved
 
