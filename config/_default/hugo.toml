@@ -1,11 +1,11 @@
 # timeout
 timeout = "1200s"
 # your website url
-baseURL = 'https://giography.vercel.app/'
+baseURL = 'https://giography.vercel.app'
 # website title
 title = 'giography'
 # don't touch this
-disableKinds = [ "section", "taxonomy", "term", "home"]
+disableKinds = ["section", "taxonomy", "term", "home"]
 # robots.txt
 enableRobotsTXT = true
 # relativeURLs = true
@@ -20,6 +20,7 @@ enableRobotsTXT = true
 # * ja (powered by Noto Sans JP)
 # * ko (powered by Noto Sans KR)
 defaultContentLanguage = 'en'
+
 [params]
 bundled = true
 

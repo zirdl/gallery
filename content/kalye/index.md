@@ -1,12 +1,12 @@
 ---
 type: _default
 layout: single
-url: /
+url: /baguio
 menu:
   main:
-    weight: 1
-    identifier: kalye
-    title: itta lang
+    weight: 2
+    identifier: baguio_streets
+    title: Baguio
 unifiedAlt: '© Giovani Valdriz'
 _build:
   publishResources: false
